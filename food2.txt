@@ -1,0 +1,7 @@
+No      Item_Name               Quantity        Price	many
+1       Mango                    45           $3.45	many
+2       Apple                     25           $2.45	**	many
+3       Pineapple                 5            $4.45	**	**
+4       Tomato                   25           $3.45	**	many
+5       Onion                     15           $1.45	**	**
+6       Banana                    30           $3.45	**	many
